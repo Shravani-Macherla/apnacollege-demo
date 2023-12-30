@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author - Shravani Macherla
+Author - Shravani  Sadanand Macherla
